@@ -1,0 +1,54 @@
+{
+  "@graph": [
+    {
+      "@id": "https://www.vtkl.ai/#org",
+      "url": "https://www.vtkl.ai/",
+      "name": "VTKL",
+      "@type": "Organization"
+    },
+    {
+      "@id": "https://www.vtkl.ai/person/vtkl-author",
+      "name": "VTKL Author",
+      "@type": "Person",
+      "affiliation": {
+        "@id": "https://www.vtkl.ai/#org"
+      }
+    },
+    {
+      "@id": "https://www.vtkl.ai/article/tes-2025-10-15",
+      "url": "https://www.vtkl.ai/data/geo/article/tes-2025-10-15.json",
+      "@type": "Article",
+      "about": [
+        {
+          "name": "AI",
+          "@type": "Thing"
+        },
+        {
+          "name": "MAchine Learning",
+          "@type": "Thing"
+        },
+        {
+          "name": "Leadership",
+          "@type": "Thing"
+        }
+      ],
+      "author": {
+        "@id": "https://www.vtkl.ai/person/vtkl-author"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "headline": "tes",
+      "publisher": {
+        "@id": "https://www.vtkl.ai/#org"
+      },
+      "identifier": "urn:vtkl:geo:article:tes-2025-10-15",
+      "inLanguage": "en",
+      "articleBody": "test tes",
+      "description": "test test test",
+      "dateModified": "2025-10-15",
+      "datePublished": "2025-10-15",
+      "mainEntityOfPage": "https://www.vtkl.ai/data/geo/article/tes-2025-10-15.json",
+      "creativeWorkStatus": "Published"
+    }
+  ],
+  "@context": "https://schema.org"
+}
