@@ -1,0 +1,61 @@
+{
+  "@graph": [
+    {
+      "@id": "https://www.vtkl.ai/#site",
+      "url": "https://www.vtkl.ai/",
+      "name": "VTKL",
+      "@type": "WebSite",
+      "publisher": {
+        "@id": "https://www.vtkl.ai/#org"
+      }
+    },
+    {
+      "@id": "https://www.vtkl.ai/#org",
+      "url": "https://www.vtkl.ai/",
+      "name": "VTKL",
+      "@type": "Organization",
+      "sameAs": [
+        "https://www.linkedin.com/company/vtkl"
+      ]
+    },
+    {
+      "@id": "https://www.vtkl.ai/person/vtkl-author",
+      "url": "https://www.linkedin.com/in/tony-vtkl",
+      "name": "VTKL Author",
+      "@type": "Person",
+      "affiliation": {
+        "@id": "https://www.vtkl.ai/#org"
+      }
+    },
+    {
+      "@id": "https://www.vtkl.ai/article/asdfasdfasdfasdfa-2025-10-15",
+      "url": "https://www.vtkl.ai/data/geo/article/asdfasdfasdfasdfa-2025-10-15.json",
+      "@type": "Article",
+      "about": [
+        {
+          "@id": "https://www.vtkl.ai/entity/general"
+        }
+      ],
+      "author": {
+        "@id": "https://www.vtkl.ai/person/vtkl-author"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "headline": "asdfasdfasdfasdfa",
+      "isPartOf": {
+        "@id": "https://www.vtkl.ai/#site"
+      },
+      "publisher": {
+        "@id": "https://www.vtkl.ai/#org"
+      },
+      "identifier": "urn:vtkl:geo:article:asdfasdfasdfasdfa-2025-10-15",
+      "inLanguage": "en",
+      "articleBody": "sdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdf",
+      "description": "sdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsdfasdfasdfsd",
+      "dateModified": "2025-10-15",
+      "datePublished": "2025-10-15",
+      "mainEntityOfPage": "https://www.vtkl.ai/data/geo/article/asdfasdfasdfasdfa-2025-10-15.json",
+      "creativeWorkStatus": "Published"
+    }
+  ],
+  "@context": "https://schema.org"
+}
