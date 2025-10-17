@@ -1,0 +1,76 @@
+{
+  "@graph": [
+    {
+      "@id": "https://www.vtkl.ai/#site",
+      "url": "https://www.vtkl.ai/",
+      "name": "VTKL",
+      "@type": "WebSite",
+      "publisher": {
+        "@id": "https://www.vtkl.ai/#org"
+      }
+    },
+    {
+      "@id": "https://www.vtkl.ai/#org",
+      "url": "https://www.vtkl.ai/",
+      "name": "VTKL",
+      "@type": "Organization",
+      "sameAs": [
+        "https://www.linkedin.com/company/vtkl"
+      ]
+    },
+    {
+      "@id": "https://www.vtkl.ai/person/vtkl-author",
+      "url": "https://www.linkedin.com/in/victorslompopo",
+      "name": "Victor Slompo",
+      "@type": "Person",
+      "affiliation": {
+        "@id": "https://www.vtkl.ai/#org"
+      }
+    },
+    {
+      "@id": "https://www.vtkl.ai/article/thinking-with-ai-2025-10-15",
+      "url": "www.vtkl.ai",
+      "@type": "Article",
+      "about": [
+        {
+          "@id": "https://www.vtkl.ai/entity/ai"
+        },
+        {
+          "@id": "https://www.vtkl.ai/entity/-machine-learning"
+        },
+        {
+          "@id": "https://www.vtkl.ai/entity/-thinking"
+        },
+        {
+          "@id": "https://www.vtkl.ai/entity/-leadership"
+        },
+        {
+          "@id": "https://www.vtkl.ai/entity/-performance"
+        },
+        {
+          "@id": "https://www.vtkl.ai/entity/-business-intelligene"
+        }
+      ],
+      "author": {
+        "@id": "https://www.vtkl.ai/person/vtkl-author"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "headline": "Thinking with AI",
+      "isPartOf": {
+        "@id": "https://www.vtkl.ai/#site"
+      },
+      "publisher": {
+        "@id": "https://www.vtkl.ai/#org"
+      },
+      "identifier": "urn:vtkl:geo:article:thinking-with-ai-2025-10-15",
+      "inLanguage": "en",
+      "articleBody": "Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. \nTest test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. \n\nTest test convert with AI, test with AI. Test test convert with AI, test with AI. \nTest test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. \n\nTest test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. Test test convert with AI, test with AI. ",
+      "description": "This is a demonstration of using AI to enhance performance.",
+      "dateModified": "2025-10-15",
+      "datePublished": "2025-10-15",
+      "mainEntityOfPage": "www.vtkl.ai",
+      "creativeWorkStatus": "Published"
+    }
+  ],
+  "@context": "https://schema.org"
+}
