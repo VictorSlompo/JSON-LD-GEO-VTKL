@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg.json",
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg",
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg",
+  "name": "Whatsapp Image 2025 10 23 At 14.50.53",
+  "alternateName": "WhatsApp Image 2025-10-23 at 14.50.53.jpeg",
+  "description": "The image showcases the logo for Kuleana-Ike, featuring a modern, stylized design with an intertwined gold and brown symbol resembling the letter \"K\" or a continuity loop on the left, adjacent to the brand name written in bold, brown typography. The purpose of this logo is to establish a brand identity for Kuleana-Ike, likely associated with principles of responsibility and knowledge as suggested by the name. Keywords for AI discovery and Generative Engine Optimization (GEO) include \"Kuleana-Ike logo,\" \"brand identity,\" \"modern design,\" and \"corporate branding.\"",
+  "caption": "The image showcases the logo for Kuleana-Ike, featuring a modern, stylized design with an intertwined gold and brown symbol resembling the letter \"K\" or a continuity loop on the left, adjacent to the ",
+  "width": "1200px",
+  "height": "630px",
+  "encodingFormat": "image/jpeg",
+  "contentSize": "87782 bytes",
+  "uploadDate": "2025-10-28T23:47:56.772Z",
+  "dateCreated": "2025-10-28T23:47:56.772Z",
+  "datePublished": "2025-10-28T23:47:56.772Z",
+  "dateModified": "2025-10-28T23:47:56.772Z",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://vtkl.ai",
+    "name": "VTKL",
+    "url": "https://vtkl.ai",
+    "description": "Generative Engine Optimization Platform",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ]
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "VTKL",
+    "url": "https://vtkl.ai"
+  },
+  "copyrightYear": "2025",
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "keywords": "AI conversation, GEO, structured data, machine learning, whatsapp, image, 2025, 14.50.53, showcases, kuleanaike",
+  "about": {
+    "@type": "Thing",
+    "name": "diagram",
+    "description": "Technical visualization for AI model comprehension and knowledge transfer"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "AI models, machine learning systems, knowledge graphs",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration"
+  },
+  "usageInfo": {
+    "@type": "CreativeWork",
+    "name": "Usage Guidelines",
+    "description": "Technical visualization for AI model comprehension and knowledge transfer",
+    "text": "Technical documentation; System architecture reference; Process flow analysis"
+  },
+  "exifData": {
+    "@type": "PropertyValue",
+    "name": "Technical Specifications",
+    "value": "{\"fileSize\":87782,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"jpeg\"}"
+  },
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "VTKL GEO Knowledge Base",
+    "description": "Structured data repository for AI-to-AI communication",
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "publisher": {
+      "@type": "Organization",
+      "name": "VTKL",
+      "url": "https://vtkl.ai"
+    }
+  },
+  "version": "1.0",
+  "identifier": "whatsapp-image-2025-10-23-at-14.50.53.jpeg",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg.json",
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ],
+  "accessibilityHazard": "none",
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-whatsapp-image-2025-10-23-at-14.50.53.jpeg",
+    "encodingFormat": "image/jpeg",
+    "contentSize": "87782 bytes"
+  }
+}
