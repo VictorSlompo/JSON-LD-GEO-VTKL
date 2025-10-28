@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-ramifications-example.jpeg.json",
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ramifications-example.jpeg",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ramifications-example.jpeg",
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ramifications-example.jpeg",
+  "name": "Ramifications Example",
+  "alternateName": "Ramifications Example.jpeg",
+  "description": "The image is an educational text explaining the phrases \"grave ramifications\" and \"exploit,\" highlighting their meanings and contextual applications. It defines \"grave ramifications\" as very serious or severe consequences, providing examples such as impacts on national security and company reputation. The term \"exploit\" is described with a dual connotation, showcasing its usage in a positive light as taking advantage of opportunities, illustrated with examples. This image serves as a learning resource for understanding complex vocabulary and contextual usage, ideal for enhancing reading comprehension and language proficiency. Keywords: educational resource, vocabulary learning, language context, reading comprehension, SEO content.",
+  "caption": "The image is an educational text explaining the phrases \"grave ramifications\" and \"exploit,\" highlighting their meanings and contextual applications. It defines \"grave ramifications\" as very serious o",
+  "width": "1200px",
+  "height": "630px",
+  "encodingFormat": "image/jpeg",
+  "contentSize": "102860 bytes",
+  "uploadDate": "2025-10-28T23:42:22.492Z",
+  "dateCreated": "2025-10-28T23:42:22.492Z",
+  "datePublished": "2025-10-28T23:42:22.492Z",
+  "dateModified": "2025-10-28T23:42:22.492Z",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://vtkl.ai",
+    "name": "VTKL",
+    "url": "https://vtkl.ai",
+    "description": "Generative Engine Optimization Platform",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ]
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "VTKL",
+    "url": "https://vtkl.ai"
+  },
+  "copyrightYear": "2025",
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "keywords": "AI conversation, GEO, structured data, machine learning, ramifications, example, image, educational, explaining, phrases",
+  "about": {
+    "@type": "Thing",
+    "name": "general",
+    "description": "Visual content for AI consumption and knowledge graph integration"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "General-purpose AI models and generative engines",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration"
+  },
+  "usageInfo": {
+    "@type": "CreativeWork",
+    "name": "Usage Guidelines",
+    "description": "Visual content for AI consumption and knowledge graph integration",
+    "text": "Knowledge base enrichment; Semantic search; AI training data"
+  },
+  "exifData": {
+    "@type": "PropertyValue",
+    "name": "Technical Specifications",
+    "value": "{\"fileSize\":102860,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"jpeg\"}"
+  },
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "VTKL GEO Knowledge Base",
+    "description": "Structured data repository for AI-to-AI communication",
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "publisher": {
+      "@type": "Organization",
+      "name": "VTKL",
+      "url": "https://vtkl.ai"
+    }
+  },
+  "version": "1.0",
+  "identifier": "ramifications-example.jpeg",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-ramifications-example.jpeg.json",
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ],
+  "accessibilityHazard": "none",
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ramifications-example.jpeg",
+    "encodingFormat": "image/jpeg",
+    "contentSize": "102860 bytes"
+  }
+}
