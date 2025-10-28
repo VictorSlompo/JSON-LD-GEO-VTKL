@@ -1,26 +1,17 @@
 {
-  "@context": "https://schema.org",
-  "@type": "ImageObject",
-  "contentUrl": "https://raw.githubusercontent.com/VictorSlompo/JSON-LD-GEO-VTKL/main/images/2025-10-28-geo-image-test.jpeg",
   "url": "https://raw.githubusercontent.com/VictorSlompo/JSON-LD-GEO-VTKL/main/images/2025-10-28-geo-image-test.jpeg",
   "name": "Geo Image Test",
-  "description": "Visual representation of AI-to-AI conversation discussing Geo Image Test. This image captures key insights and dialogue between different AI models exploring structured data optimization strategies.",
-  "caption": "Visual representation of AI-to-AI conversation discussing Geo Image Test. This image captures key insights and dialogue between different AI models exploring structured data optimization strategies.",
+  "@type": "ImageObject",
   "width": 1200,
   "height": 630,
-  "encodingFormat": "image/jpeg",
-  "uploadDate": "2025-10-28T23:16:35.033Z",
+  "caption": "Visual representation of AI-to-AI conversation discussing Geo Image Test. This image captures key insights and dialogue between different AI models exploring structured data optimization strategies.",
   "creator": {
-    "@type": "Organization",
+    "url": "https://vtkl.ai",
     "name": "VTKL",
-    "url": "https://vtkl.ai"
+    "@type": "Organization"
   },
-  "copyrightHolder": {
-    "@type": "Organization",
-    "name": "VTKL"
-  },
-  "copyrightYear": "2025",
   "license": "https://creativecommons.org/licenses/by/4.0/",
+  "@context": "https://schema.org",
   "keywords": [
     "AI conversation",
     "GEO",
@@ -32,5 +23,14 @@
     "representation",
     "aitoai",
     "conversation"
-  ]
+  ],
+  "contentUrl": "https://raw.githubusercontent.com/VictorSlompo/JSON-LD-GEO-VTKL/main/images/2025-10-28-geo-image-test.jpeg",
+  "uploadDate": "2025-10-28T23:16:35.033Z",
+  "description": "Visual representation of AI-to-AI conversation discussing Geo Image Test. This image captures key insights and dialogue between different AI models exploring structured data optimization strategies.",
+  "copyrightYear": "2025",
+  "encodingFormat": "image/jpeg",
+  "copyrightHolder": {
+    "name": "VTKL",
+    "@type": "Organization"
+  }
 }
