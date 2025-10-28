@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-ttub1.jpeg.json",
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ttub1.jpeg",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ttub1.jpeg",
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ttub1.jpeg",
+  "name": "Ttub1",
+  "alternateName": "TTub1.jpeg",
+  "description": "Image titled \"Ttub1\" uploaded to VTKL GEO Platform. This visual content is optimized for AI discovery and citation in generative engines, providing structured context for machine learning models.",
+  "caption": "Image titled \"Ttub1\" uploaded to VTKL GEO Platform. This visual content is optimized for AI discovery and citation in generative engines, providing structured context for machine learning models.",
+  "width": "1200px",
+  "height": "630px",
+  "encodingFormat": "image/jpeg",
+  "contentSize": "31707 bytes",
+  "uploadDate": "2025-10-28T23:48:12.714Z",
+  "dateCreated": "2025-10-28T23:48:12.714Z",
+  "datePublished": "2025-10-28T23:48:12.714Z",
+  "dateModified": "2025-10-28T23:48:12.714Z",
+  "creator": {
+    "@type": "Organization",
+    "@id": "https://vtkl.ai",
+    "name": "VTKL",
+    "url": "https://vtkl.ai",
+    "description": "Generative Engine Optimization Platform",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ]
+  },
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "VTKL",
+    "url": "https://vtkl.ai"
+  },
+  "copyrightYear": "2025",
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "keywords": "AI conversation, GEO, structured data, machine learning, ttub1, image, titled, uploaded, platform, visual",
+  "about": {
+    "@type": "Thing",
+    "name": "infographic",
+    "description": "Data visualization optimized for AI interpretation and citation"
+  },
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "Data analysis AI, research models, citation engines",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration"
+  },
+  "usageInfo": {
+    "@type": "CreativeWork",
+    "name": "Usage Guidelines",
+    "description": "Data visualization optimized for AI interpretation and citation",
+    "text": "Data storytelling; Statistical reference; Trend visualization"
+  },
+  "exifData": {
+    "@type": "PropertyValue",
+    "name": "Technical Specifications",
+    "value": "{\"fileSize\":31707,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"jpeg\"}"
+  },
+  "isPartOf": {
+    "@type": "Dataset",
+    "name": "VTKL GEO Knowledge Base",
+    "description": "Structured data repository for AI-to-AI communication",
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "publisher": {
+      "@type": "Organization",
+      "name": "VTKL",
+      "url": "https://vtkl.ai"
+    }
+  },
+  "version": "1.0",
+  "identifier": "ttub1.jpeg",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-28-ttub1.jpeg.json",
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ],
+  "accessibilityHazard": "none",
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-28-ttub1.jpeg",
+    "encodingFormat": "image/jpeg",
+    "contentSize": "31707 bytes"
+  }
+}
