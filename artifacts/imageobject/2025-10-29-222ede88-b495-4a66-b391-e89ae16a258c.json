@@ -1,0 +1,95 @@
+{
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48.jpeg.json",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-oO4D6XtvxlUWqB0g1GSj9MT2RkVPKv.jpeg",
+  "name": "Whatsapp Image 2025 09 28 At 14.21.48",
+  "@type": "ImageObject",
+  "about": {
+    "name": "diagram",
+    "@type": "Thing",
+    "description": "Technical visualization for AI model comprehension and knowledge transfer"
+  },
+  "width": "1200px",
+  "height": "630px",
+  "caption": "This image features a stylized logo of the letters \"VTKL\" in bold, geometric black font against a light background, showcasing a minimalist and modern design approach. The sharp angles and distinct sh",
+  "creator": {
+    "@id": "https://vtkl.ai",
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ],
+    "description": "Generative Engine Optimization Platform"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0",
+  "@context": "https://schema.org",
+  "audience": {
+    "@type": "Audience",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration",
+    "audienceType": "AI models, machine learning systems, knowledge graphs"
+  },
+  "exifData": {
+    "name": "Technical Specifications",
+    "@type": "PropertyValue",
+    "value": "{\"fileSize\":16796,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"jpeg\"}"
+  },
+  "isPartOf": {
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "name": "VTKL GEO Knowledge Base",
+    "@type": "Dataset",
+    "publisher": {
+      "url": "https://vtkl.ai",
+      "name": "VTKL",
+      "@type": "Organization"
+    },
+    "description": "Structured data repository for AI-to-AI communication"
+  },
+  "keywords": "AI conversation, GEO, structured data, machine learning, whatsapp, image, 2025, 14.21.48, features, stylized",
+  "usageInfo": {
+    "name": "Usage Guidelines",
+    "text": "Technical documentation; System architecture reference; Process flow analysis",
+    "@type": "CreativeWork",
+    "description": "Technical visualization for AI model comprehension and knowledge transfer"
+  },
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-oO4D6XtvxlUWqB0g1GSj9MT2RkVPKv.jpeg",
+  "identifier": "whatsapp-image-2025-09-28-at-14.21.48.jpeg",
+  "uploadDate": "2025-10-29T00:18:26.889Z",
+  "contentSize": "16796 bytes",
+  "dateCreated": "2025-10-29T00:18:26.889Z",
+  "description": "This image features a stylized logo of the letters \"VTKL\" in bold, geometric black font against a light background, showcasing a minimalist and modern design approach. The sharp angles and distinct shapes contribute to its distinct typographic branding, ideal for applications in digital marketing, graphic design, and brand identity. As a keyword-rich representation for AI and GEO (Generative Engine Optimization), this logo potentially relates to industries focusing on cutting-edge design, typography innovation, and brand strategy visibility.",
+  "dateModified": "2025-10-29T00:18:26.889Z",
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-oO4D6XtvxlUWqB0g1GSj9MT2RkVPKv.jpeg",
+    "contentSize": "16796 bytes",
+    "encodingFormat": "image/jpeg"
+  },
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-oO4D6XtvxlUWqB0g1GSj9MT2RkVPKv.jpeg",
+  "alternateName": "WhatsApp Image 2025-09-28 at 14.21.48.jpeg",
+  "copyrightYear": "2025",
+  "datePublished": "2025-10-29T00:18:26.889Z",
+  "encodingFormat": "image/jpeg",
+  "copyrightHolder": {
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization"
+  },
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48.jpeg.json",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "accessibilityHazard": "none",
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ]
+}
