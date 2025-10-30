@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageGallery",
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imagegallery/2025-10-30-gallery.json",
+  "name": "Image Gallery - 2025-10-30",
+  "description": "Collection of 7 images published together",
+  "datePublished": "2025-10-30T18:56:06.361Z",
+  "numberOfItems": 7,
+  "hasPart": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-4252da11-1029-455a-a8bd-0a98581da1b9.json",
+      "name": "Whatsapp Image 2025 09 28 At 14.21.48",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-lCTnmDFrWA1ex9Xz5cHOnaBOjI2tn7.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-222ede88-b495-4a66-b391-e89ae16a258c.json",
+      "name": "Whatsapp Image 2025 09 28 At 14.21.48",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-whatsapp-image-2025-09-28-at-14.21.48-oO4D6XtvxlUWqB0g1GSj9MT2RkVPKv.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-1cf8f35d-9e7c-4ec3-9ead-03e760727534.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-GiN8c1o3J7OgmEiuJGH62hHbOCGDQT.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-737c5c75-db3a-4d23-b33d-1cf2b4a30eee.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-erxB4hFvZgdc5X1nAgK1esqIWou9GA.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-d535a910-eca6-4cd0-b258-0009e56ffb59.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-30-geo-image-test-Ckv3vHsMXwERjKtwk9TpxJ3vaMFL9W.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-5b321d2f-a7f8-4688-b304-b3382d0197b7.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-jR2lDEJ1bZG4eBkfRAyilWFcr3b4g4.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-30-0f4dd939-a2c9-4788-b8ac-3b91736415cd.json",
+      "name": "Ramifications Example",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-ramifications-example-Dzq1lk00wkkjRh7TJaDkjqleu1TWIW.jpeg"
+    }
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "VTKL",
+    "url": "https://vtkl.ai"
+  }
+}
