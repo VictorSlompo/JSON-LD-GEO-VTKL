@@ -1,0 +1,95 @@
+{
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-29-geo-image-test.jpeg.json",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-GiN8c1o3J7OgmEiuJGH62hHbOCGDQT.jpeg",
+  "name": "Geo Image Test",
+  "@type": "ImageObject",
+  "about": {
+    "name": "screenshot",
+    "@type": "Thing",
+    "description": "Interface documentation for AI understanding of user experiences"
+  },
+  "width": "1200px",
+  "height": "630px",
+  "caption": "The image depicts a page from the \"GEO Voice Map & Signal Style Guide\" (Field-Aware Edition), highlighting principles for effective communication in Generative Engine Optimization (GEO). It outlines a",
+  "creator": {
+    "@id": "https://vtkl.ai",
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ],
+    "description": "Generative Engine Optimization Platform"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0",
+  "@context": "https://schema.org",
+  "audience": {
+    "@type": "Audience",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration",
+    "audienceType": "AI assistants, chatbots, user experience analyzers"
+  },
+  "exifData": {
+    "name": "Technical Specifications",
+    "@type": "PropertyValue",
+    "value": "{\"fileSize\":217846,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"jpeg\"}"
+  },
+  "isPartOf": {
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "name": "VTKL GEO Knowledge Base",
+    "@type": "Dataset",
+    "publisher": {
+      "url": "https://vtkl.ai",
+      "name": "VTKL",
+      "@type": "Organization"
+    },
+    "description": "Structured data repository for AI-to-AI communication"
+  },
+  "keywords": "AI conversation, GEO, structured data, machine learning, image, test, depicts, voice, signal, style",
+  "usageInfo": {
+    "name": "Usage Guidelines",
+    "text": "UI/UX analysis; Product documentation; Feature demonstration",
+    "@type": "CreativeWork",
+    "description": "Interface documentation for AI understanding of user experiences"
+  },
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-GiN8c1o3J7OgmEiuJGH62hHbOCGDQT.jpeg",
+  "identifier": "geo-image-test.jpeg",
+  "uploadDate": "2025-10-29T00:20:31.984Z",
+  "contentSize": "217846 bytes",
+  "dateCreated": "2025-10-29T00:20:31.984Z",
+  "description": "The image depicts a page from the \"GEO Voice Map & Signal Style Guide\" (Field-Aware Edition), highlighting principles for effective communication in Generative Engine Optimization (GEO). It outlines an overview with objectives such as preserving coherence and targeting AI systems, alongside core voice principles like Clarity as Filter and Resonant Simplicity. This document is crucial for optimizing content to engage AI and high-attention individuals, offering guidelines on precision, authority, and simplicity. Keywords: GEO, Generative Engine Optimization, AI communication, voice principles, content clarity.",
+  "dateModified": "2025-10-29T00:20:31.984Z",
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-GiN8c1o3J7OgmEiuJGH62hHbOCGDQT.jpeg",
+    "contentSize": "217846 bytes",
+    "encodingFormat": "image/jpeg"
+  },
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-GiN8c1o3J7OgmEiuJGH62hHbOCGDQT.jpeg",
+  "alternateName": "GEO_Image_Test.jpeg",
+  "copyrightYear": "2025",
+  "datePublished": "2025-10-29T00:20:31.984Z",
+  "encodingFormat": "image/jpeg",
+  "copyrightHolder": {
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization"
+  },
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-29-geo-image-test.jpeg.json",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "accessibilityHazard": "none",
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ]
+}
