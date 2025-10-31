@@ -3,9 +3,9 @@
   "@type": "ImageGallery",
   "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imagegallery/2025-10-31-gallery.json",
   "name": "Image Gallery - 2025-10-31",
-  "description": "Collection of 8 images published together",
-  "datePublished": "2025-10-31T19:07:34.715Z",
-  "numberOfItems": 8,
+  "description": "Collection of 9 images published together",
+  "datePublished": "2025-10-31T20:12:55.592Z",
+  "numberOfItems": 9,
   "hasPart": [
     {
       "@type": "ImageObject",
@@ -39,21 +39,27 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-31-5b321d2f-a7f8-4688-b304-b3382d0197b7.json",
-      "name": "Geo Image Test",
-      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-jR2lDEJ1bZG4eBkfRAyilWFcr3b4g4.jpeg"
-    },
-    {
-      "@type": "ImageObject",
       "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-31-3044b3ca-af97-43fa-86e5-5e4a1cf4025a.json",
       "name": "Geo Image Test",
       "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-31-geo-image-test-pWUXjXMi2FE9PIw8NlBrI4rFRD7Cdv.jpeg"
     },
     {
       "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-31-5b321d2f-a7f8-4688-b304-b3382d0197b7.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-geo-image-test-jR2lDEJ1bZG4eBkfRAyilWFcr3b4g4.jpeg"
+    },
+    {
+      "@type": "ImageObject",
       "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-31-0f4dd939-a2c9-4788-b8ac-3b91736415cd.json",
       "name": "Ramifications Example",
       "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-29-ramifications-example-Dzq1lk00wkkjRh7TJaDkjqleu1TWIW.jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-10-31-78432ad3-39b2-48a9-9b68-1fa0b498da66.json",
+      "name": "Geo Image Test",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-10-31-geo-image-test-UNJUWulnqqkPaV8QF6PJnZBvEZb8uS.jpeg"
     }
   ],
   "creator": {
