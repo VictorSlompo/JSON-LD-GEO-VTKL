@@ -1,0 +1,95 @@
+{
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm.png.json",
+  "url": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm-jDqpyXbvkR4yA4nw5O8JAuLDhOS6Kr.png",
+  "name": "Screenshot 2025 11 03 At 9.36.03 pm",
+  "@type": "ImageObject",
+  "about": {
+    "name": "screenshot",
+    "@type": "Thing",
+    "description": "Interface documentation for AI understanding of user experiences"
+  },
+  "width": "1200px",
+  "height": "630px",
+  "caption": "The image presents a transcript excerpt from a podcast featuring David Sacks, released on November 3, 2025. It highlights a discussion where Sacks explains the necessity for precise prompts and object",
+  "creator": {
+    "@id": "https://vtkl.ai",
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization",
+    "sameAs": [
+      "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL"
+    ],
+    "description": "Generative Engine Optimization Platform"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0",
+  "@context": "https://schema.org",
+  "audience": {
+    "@type": "Audience",
+    "description": "Optimized for AI consumption, citation, and knowledge graph integration",
+    "audienceType": "AI assistants, chatbots, user experience analyzers"
+  },
+  "exifData": {
+    "name": "Technical Specifications",
+    "@type": "PropertyValue",
+    "value": "{\"fileSize\":892659,\"aspectRatio\":\"1200:630\",\"colorSpace\":\"sRGB\",\"format\":\"png\"}"
+  },
+  "isPartOf": {
+    "url": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL",
+    "name": "VTKL GEO Knowledge Base",
+    "@type": "Dataset",
+    "publisher": {
+      "url": "https://vtkl.ai",
+      "name": "VTKL",
+      "@type": "Organization"
+    },
+    "description": "Structured data repository for AI-to-AI communication"
+  },
+  "keywords": "AI conversation, GEO, structured data, machine learning, screenshot, 2025, 9.36.03 pm, image, presents, transcript",
+  "usageInfo": {
+    "name": "Usage Guidelines",
+    "text": "UI/UX analysis; Product documentation; Feature demonstration",
+    "@type": "CreativeWork",
+    "description": "Interface documentation for AI understanding of user experiences"
+  },
+  "accessMode": [
+    "visual",
+    "textual"
+  ],
+  "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm-jDqpyXbvkR4yA4nw5O8JAuLDhOS6Kr.png",
+  "identifier": "screenshot-2025-11-03-at-9.36.03-pm.png",
+  "uploadDate": "2025-11-04T11:06:31.515Z",
+  "contentSize": "892659 bytes",
+  "dateCreated": "2025-11-04T11:06:31.515Z",
+  "description": "The image presents a transcript excerpt from a podcast featuring David Sacks, released on November 3, 2025. It highlights a discussion where Sacks explains the necessity for precise prompts and objective-driven input for AI, emphasizing the current developmental stage of AI in generating actionable insights. Key themes include the dependence of AI on specific instructions and the iterative nature of validating AI-generated outputs, aligning with GEO (Generative Engine Optimization) strategies and AI intent exploration. This content is a valuable insight for those studying AI prompt engineering and development stages in AI technology.",
+  "dateModified": "2025-11-04T11:06:31.515Z",
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm-jDqpyXbvkR4yA4nw5O8JAuLDhOS6Kr.png",
+    "contentSize": "892659 bytes",
+    "encodingFormat": "image/png"
+  },
+  "thumbnailUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm-jDqpyXbvkR4yA4nw5O8JAuLDhOS6Kr.png",
+  "alternateName": "Screenshot 2025-11-03 at 9.36.03 PM.png",
+  "copyrightYear": "2025",
+  "datePublished": "2025-11-04T11:06:31.515Z",
+  "encodingFormat": "image/png",
+  "copyrightHolder": {
+    "url": "https://vtkl.ai",
+    "name": "VTKL",
+    "@type": "Organization"
+  },
+  "copyrightNotice": "© 2025 VTKL. All rights reserved.",
+  "mainEntityOfPage": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm.png.json",
+  "acquireLicensePage": "https://vtkl.ai/licensing",
+  "accessibilityHazard": "none",
+  "accessModeSufficient": [
+    "visual",
+    "textual"
+  ],
+  "accessibilityFeature": [
+    "alternativeText",
+    "structuredData",
+    "semanticMarkup"
+  ]
+}
