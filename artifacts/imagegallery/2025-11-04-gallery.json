@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageGallery",
+  "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imagegallery/2025-11-04-gallery.json",
+  "name": "Image Gallery - 2025-11-04",
+  "description": "Collection of 3 images published together",
+  "datePublished": "2025-11-04T11:06:45.129Z",
+  "numberOfItems": 3,
+  "hasPart": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-11-04-39327671-c749-4f56-9115-70a8835efcd9.json",
+      "name": "Screenshot 2025 11 03 At 9.36.03 pm",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.03-pm-jDqpyXbvkR4yA4nw5O8JAuLDhOS6Kr.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-11-04-9df2e0d6-9fdf-4f3b-acd1-68bc12e610b9.json",
+      "name": "Screenshot 2025 11 03 At 8.29.05 pm",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-8.29.05-pm-Gr5zxRcgdUfqyJrABY6tJfEZSJ6P4g.png"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://github.com/VictorSlompo/JSON-LD-GEO-VTKL/blob/main/artifacts/imageobject/2025-11-04-194ca18a-ee25-496f-98a3-3475f05c0e9f.json",
+      "name": "Screenshot 2025 11 03 At 9.36.09 pm",
+      "contentUrl": "https://ck9xt8do5tbwzchc.public.blob.vercel-storage.com/2025-11-04-screenshot-2025-11-03-at-9.36.09-pm-QKiQHkqF5cqP4TbTVV78gmK0Qhm1xV.png"
+    }
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "VTKL",
+    "url": "https://vtkl.ai"
+  }
+}
